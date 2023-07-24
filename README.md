@@ -82,8 +82,9 @@ I am a highly articulate individual who possesses a fervent interest in both mus
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/> </a>
  </div>
  
+<!-- 
 ---
 
   ![Snake animation](https://github.com/bigodrigo/bigodrigo/blob/output/github-contribution-grid-snake.svg)
 
-
+-->
