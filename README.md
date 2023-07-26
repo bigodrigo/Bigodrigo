@@ -3,14 +3,14 @@
 I am a highly articulate individual who possesses a fervent interest in both music and technology. Moreover, my dynamic personality drives me to constantly seek expedient solutions that uphold optimum standards of quality in my professional endeavors.
 
 <div align="center">
- <img align="center" height="180em" src="https://github-readme-stats-bigodrigo.vercel.app/api?username=bigodrigo&show_icons=true&locale=en&theme=react" alt="bigodrigo" />
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bigodrigo&show_icons=true&locale=en&theme=react" alt="bigodrigo" />
  <img align="center" height="180em" src="github-readme-stats-eosin-zeta.vercel.app/api/top-langs?username=bigodrigo&show_icons=true&locale=en&layout=compact&theme=react" alt="bigodrigo" />
 </div>
 
-<div>
+<!-- <div>
    <img align="center" height="180em" src="https://github-readme-stats.bigodrigo.vercel.app/api?username=bigodrigo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
    <img align="center" height="180em" src="https://github-readme-stats.bigodrigo.vercel.app/api/top-langs/?username=bigodrigo&layout=compact&langs_count=6&theme=react"/>
-</div>
+</div> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="bigodrigo" /> </p>
 
