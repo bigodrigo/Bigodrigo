@@ -3,7 +3,7 @@
 I am a highly articulate individual who possesses a fervent interest in both music and technology. Moreover, my dynamic personality drives me to constantly seek expedient solutions that uphold optimum standards of quality in my professional endeavors.
 
 <div align="center">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bigodrigo&show_icons=true&locale=en&theme=react" alt="bigodrigo" />
+ <img align="center" height="180em" src="https://github-readme-stats-bigodrigo.vercel.app/&show_icons=true&locale=en&theme=react" alt="bigodrigo" />
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigodrigo&show_icons=true&locale=en&layout=compact&theme=react" alt="bigodrigo" />
 </div>
 
