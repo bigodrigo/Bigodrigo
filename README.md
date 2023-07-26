@@ -4,7 +4,7 @@ I am a highly articulate individual who possesses a fervent interest in both mus
 
 <div align="center">
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bigodrigo&show_icons=true&locale=en&theme=react" alt="bigodrigo" />
- <img align="center" height="180em" src="github-readme-stats-eosin-zeta.vercel.app/api/top-langs?username=bigodrigo&show_icons=true&locale=en&layout=compact&theme=react" alt="bigodrigo" />
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bigodrigo&show_icons=true&locale=en&layout=compact&theme=react" alt="bigodrigo" />
 </div>
 
 <!-- <div>
